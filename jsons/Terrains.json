@@ -56,6 +56,7 @@
 		"type": "Land",
 		"food": 1,
 		"production": 1,
+		"Huita": 1,
 		"movementCost": 1,
 		"RGB": [153, 180, 51],
 		"uniques": [
