@@ -98,6 +98,14 @@
 	},
 
 	{
+		"name": "huita",
+		"resourceType": "Strategic",
+		"uniques": [
+			"Stockpiled"
+		]
+	},
+
+	{
 		"name": "Iron",
 		"resourceType": "Strategic",
 		"revealedBy": "Iron Working",
