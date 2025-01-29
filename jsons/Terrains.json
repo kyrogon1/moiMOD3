@@ -5,9 +5,10 @@
 		"type": "Water",
 		"food": 1,
 		"gold": 1,
-		"Huita": 1,
 		"movementCost": 1,
-		"RGB": [43, 87, 151]
+		"RGB": [43, 87, 151],
+		"uniques": [
+			"Provides [+1] [Huita
 	},
 	{
 		"name": "Coast",
