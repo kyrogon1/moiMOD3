@@ -14,6 +14,7 @@
 		"type": "Water",
 		"food": 1,
         "gold": 2,
+		"Huita": 1,
 		"movementCost": 1,
 		"RGB": [70, 138, 216],
 		"defenceBonus": 0.1,
