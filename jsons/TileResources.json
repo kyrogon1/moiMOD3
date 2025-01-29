@@ -100,6 +100,9 @@
 	{
 		"name": "Huita",
 		"resourceType": "Strategic"
+		"uniques": [
+			"Doesn't generate naturally",
+		]
 	},
 
 	{
