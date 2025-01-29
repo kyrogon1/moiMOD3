@@ -99,7 +99,7 @@
 
 	{
 		"name": "Huita",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 		"uniques": [
 			"Stockpiled"
 		]
