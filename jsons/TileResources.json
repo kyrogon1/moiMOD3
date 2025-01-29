@@ -100,8 +100,6 @@
 	{
 		"name": "Huita",
 		"resourceType": "Strategic",
-		"uniques": [
-			"Stockpiled"
 		]
 	},
 
