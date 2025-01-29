@@ -1,6 +1,6 @@
-l
-[
+
 	// Base terrains
+[
 	{
 		"name": "Ocean",
 		"type": "Water",
