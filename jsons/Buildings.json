@@ -1053,7 +1053,7 @@
 		"uniques": [
 			// TODO: Reduces maintenance in nearby cities
 			"[-10]% maintenance cost for buildings [in your cities]",
-			"Provides [+1] [Huita] <with [Coast]> [in this city]",
+			"Provides [1] [Huita] <with [Coast]> [in this city]",
 			// BTS: +4 Espionage
 			"Indicates the capital city",
 			"Moves to new capital when capital changes",
