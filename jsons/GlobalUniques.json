@@ -142,6 +142,7 @@
 {
 	"name": "Summer",
 	"uniques": [
-"Empire enters a [8]-turn Summer"
+"Empire enters a [8]-turn Summer",
+"Triggers a global alert"
 	]
 }
