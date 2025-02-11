@@ -54,7 +54,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 1,
+		"food": 3,
 		"production": 1,
 		"movementCost": 1,
 		"RGB": [153, 180, 51],
@@ -84,7 +84,7 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [124, 62, 57],
@@ -180,6 +180,7 @@
 	{
 		"name": "Snow", // Ice in Civ 5
 		"type": "Land",
+		"food": 1,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [230, 238, 255], //Darker229, 229, 255
