@@ -19,7 +19,7 @@
 		"defenceBonus": 0.1,
 		"uniques": [
 			"[+2] to Fertility for Map Generation",
-			"[-1 Food] <every [8] turns> <for [8] turns>",
+			"[-1 Food] <every [16] turns> <for [8] turns>",
             "Considered [Desirable] when determining start locations <on water maps>",
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
