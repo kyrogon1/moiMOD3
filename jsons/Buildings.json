@@ -3,6 +3,11 @@
 	// Ancient era
 
 	{
+		"name": "Autumn",
+		"cost": 50,
+		"maintenance": 0,
+	
+	{
 		"name": "Barracks",
 		"cost": 50,
 		"maintenance": 0,
