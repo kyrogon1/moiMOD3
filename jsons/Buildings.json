@@ -1056,8 +1056,8 @@
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"culture": 2,
-		"gold": 8,
-		"happiness": 1,
+		"gold": -100,
+		"happiness": -100,
 		"cityStrength": 2,
 		"uniques": [
 			// TODO: Reduces maintenance in nearby cities
