@@ -28,6 +28,7 @@
 		"name": "Grassland", // Flatland in Civ 4
 		"type": "Land",
 		"food": 2,
+		"production": 1,
 		"movementCost": 1,
 		"RGB": [0, 163, 0],
         "uniques": [
@@ -85,6 +86,7 @@
 		"name": "Tundra",
 		"type": "Land",
 		"food": 1,
+		"production": 1,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [124, 62, 57],
@@ -180,7 +182,6 @@
 	{
 		"name": "Snow", // Ice in Civ 5
 		"type": "Land",
-		"food": 1,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [230, 238, 255], //Darker229, 229, 255
