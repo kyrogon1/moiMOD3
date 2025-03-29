@@ -102,8 +102,8 @@
 			{
 				"name": "Archery",
 				"row": 5,
-				"cost": 60,
-				"prerequisites": ["Hunting"],
+				"cost": 10,
+				"prerequisites": ["Agriculture"],
 				"quote": "\"Do not throw the arrow which will return against you.\" - Kurdish proverb"
 			},
 			{
