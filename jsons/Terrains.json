@@ -54,7 +54,7 @@
 	{
 		"name": "Plains",
 		"type": "Land",
-		"food": 3,
+		"food": 1,
 		"production": 1,
 		"movementCost": 1,
 		"RGB": [153, 180, 51],
@@ -84,7 +84,7 @@
 	{
 		"name": "Tundra",
 		"type": "Land",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [124, 62, 57],
