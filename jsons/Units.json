@@ -12,7 +12,7 @@
 		"unitType": "Sword",
 		"strength": 7,
 		"movement": 2,
-		"cost": 15,
+		"cost": 25,
 		"uniques": [
 			"Can upgrade to [Spearman]",
 			"Can upgrade to [Axeman]",
