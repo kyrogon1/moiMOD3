@@ -10,8 +10,8 @@
 	{
 		"name": "Warrior",
 		"unitType": "Sword",
-		"strength": 2,
-		"movement": 1,
+		"strength": 7,
+		"movement": 2,
 		"cost": 15,
 		"uniques": [
 			"Can upgrade to [Spearman]",
