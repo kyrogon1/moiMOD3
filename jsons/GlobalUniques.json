@@ -13,8 +13,7 @@
 		// TODO: Block We Love The King Day when Unhealthy
 
 		// TODO: Healthy: Each point of pop eats 2 Food Food per turn, or 3 Food Food each for unhealthy pop.
-        "[-1 Food] per [2] population [in all cities] <when above [0] [Health]>",
-        "[-1 Food] per [1] population [in all cities] <when below [1] [Health]>",
+        "[-1 Food] per [1] population [in all cities]",
 
 		// Population: Each point of pop adds to a city's Unhealthiness (Civ4) Unhealthiness.
         "Provides [6] [Health]", // Baseline
