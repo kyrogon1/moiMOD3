@@ -69,7 +69,7 @@
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Flood plains"],
 		"food": 1,
 		"turnsToBuild": 5,
-		"techRequired": "Agriculture",
+		"techRequired": "Archery",
 		"uniques":[
 			// TODO: Required to be built beside Fresh Water...
 			// Or beside a Farm after Civil Service
