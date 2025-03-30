@@ -82,7 +82,8 @@
 			},
 			{
 				"name": "Animal Husbandry",
-				"cost": 100,
+				"cost": 10,
+				"prerequisites": ["Agriculture"],
 				"row": 3,
 				"uniques": [
 					"Unavailable <before discovering [Agriculture]> <before discovering [Hunting]> <hidden from users>"
