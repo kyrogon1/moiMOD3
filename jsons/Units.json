@@ -13,7 +13,7 @@
 		"strength": 7,
 		"movement": 2,
 		"cost": 25,
-		"requiredTech": "Hunting",
+		"requiredTech": "Agriculture",
 		"uniques": [
 			"Can upgrade to [Spearman]",
 			"Can upgrade to [Axeman]",
