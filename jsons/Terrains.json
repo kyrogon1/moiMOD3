@@ -27,7 +27,6 @@
 		"name": "Grassland", // Flatland in Civ 4
 		"type": "Land",
 		"food": 2,
-		"production": 1,
 		"movementCost": 1,
 		"RGB": [0, 163, 0],
         "uniques": [
