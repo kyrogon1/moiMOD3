@@ -12,7 +12,7 @@
 		"unitType": "Sword",
 		"strength": 7,
 		"movement": 2,
-		"cost": 25,
+		"cost": 16,
 		"requiredTech": "Agriculture",
 		"uniques": [
 			"Can upgrade to [Spearman]",
